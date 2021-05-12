@@ -54,9 +54,12 @@
 
 
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=htkaya07)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=htkaya07&theme=highcontrast&show_icons=true&count_private=true)
 
-<p>&nbsp;<img align="right" style="max-width: 50%" width="50%" src="https://github-readme-stats.vercel.app/api?username=htkaya07&show_icons=true" alt="htkaya07"/></p>
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=htkaya07&theme=highcontrast&show_icons=true&count_private=true)
+
+
+
 
 
 
@@ -81,6 +84,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=htkaya07&layout=compact&hide=html" alt="htkaya07" /></p>
+<p>&nbsp;<img align="right" style="max-width: 50%" width="50%" src="https://github-readme-stats.vercel.app/api?username=htkaya07&show_icons=true" alt="htkaya07"/></p>
 
  🔭 I’m currently working on react native
  
