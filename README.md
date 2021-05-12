@@ -27,7 +27,6 @@
 
 - 🔭 &nbsp; I’m currently working on **cool things with TensorFlow.js** and **React Native**. 
 
-- 👨‍💻 &nbsp; All of my public speaking is available at [https://gantlaborde.com/](https://gantlaborde.com/)
 
 
 
@@ -40,10 +39,7 @@
   <tr>
      
         
-              <th>
-            Fav Tech
-        </th>
-    </tr>
+          
   <tr>
     <td>
 <ul>
@@ -61,27 +57,13 @@
       </tr>
       </table>
 
-### 📜 &nbsp; My most recent blog posts
-<!-- BLOG-POST-LIST:START -->
-- [The Remote Work Starter Kit — Office Stuff Edition](https://shift.infinite.red/the-remote-work-starter-kit-office-stuff-edition-5f1d360bfe70?source=rss-6ca0fe37eac1------2)
-- [The Remote Work Starter Kit — Desk Stuff Edition](https://shift.infinite.red/the-remote-work-starter-kit-desk-stuff-edition-6b841b8c745?source=rss-6ca0fe37eac1------2)
-- [Writing a Book — 9 Lessons](https://shift.infinite.red/writing-a-book-9-lessons-1239e5c760d3?source=rss-6ca0fe37eac1------2)
-- [No Data No Problem — TensorFlow.js Transfer Learning](https://towardsdatascience.com/no-data-no-problem-tensorflow-js-transfer-learning-f774312d1d2a?source=rss-6ca0fe37eac1------2)
-- [A Riddikulus Dataset](https://medium.com/google-developer-experts/a-riddikulus-dataset-fb68f9044e33?source=rss-6ca0fe37eac1------2)
-<!-- BLOG-POST-LIST:END -->
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gantman&layout=compact&hide=html" alt="gantman" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=htkaya07&layout=compact&hide=html" alt="htkaya07" /></p>
 
-<p>&nbsp;<img align="center" style="max-width: 50%" width="50%" src="https://github-readme-stats.vercel.app/api?username=gantman&show_icons=true" alt="gantman" /></p>
+<p>&nbsp;<img align="center" style="max-width: 50%" width="50%" src="https://github-readme-stats.vercel.app/api?username=htkaya07&show_icons=true" alt="gantman" /></p>
 
-<p align="center">
-<a href="https://twitter.com/https://twitter.com/gantlaborde" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/gantlaborde" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gant-laborde/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/gant-laborde/" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/1250389" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="1250389" height="30" width="30" /></a>
-<a href="https://medium.com/@gantlaborde" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@gantlaborde" height="30" width="30" /></a>
-</p>
 
 
 
