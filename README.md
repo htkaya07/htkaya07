@@ -64,19 +64,13 @@
 
 
 
-### Hi there 👋
-
- 🔭 I’m currently working on react native
- 
- ![Github stats](https://github-readme-stats.vercel.app/api?username=htkaya07&theme=highcontrast&show_icons=true&count_private=true)
 
 
 
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=htkaya07&layout=compact)
 
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 
 
 <!--
@@ -84,7 +78,12 @@
 
 Here are some ideas to get you started:
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=htkaya07)
+### Hi there 👋
+
+ 🔭 I’m currently working on react native
+ 
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=htkaya07&theme=highcontrast&show_icons=true&count_private=true)
+
 
 
 
