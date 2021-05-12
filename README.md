@@ -1,3 +1,94 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="100%">
+<tr>
+<!--   <td><img src="https://gantlaborde.com/wp-content/uploads/2020/04/ess12.png" align="left" width="300" /></td> -->
+  <td>
+
+<h1 align="center">Hi 👋, I'm Halil</h1>
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=htkaya07" alt="gantman" /> </p>
+
+- 🔭 &nbsp; I’m currently working on **cool things with TensorFlow.js** and **React Native**. 
+
+- 👨‍💻 &nbsp; All of my public speaking is available at [https://gantlaborde.com/](https://gantlaborde.com/)
+
+
+
+</td>
+  </tr>
+</table>
+
+
+<table style="table-layout: fixed;">
+  <tr>
+      <th width="50%">
+        My Affiliate Groups
+        </th>
+              <th>
+            Fav Tech
+        </th>
+    </tr>
+  <tr>
+    <td>
+<ul>
+  <li> </li>
+  <li> </li>
+  <li> </li>
+  <li> </li>
+  <li> </li>
+</ul>
+</td>
+    <td>
+<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> <https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+      </p>
+      </td>
+      </tr>
+      </table>
+
+### 📜 &nbsp; My most recent blog posts
+<!-- BLOG-POST-LIST:START -->
+- [The Remote Work Starter Kit — Office Stuff Edition](https://shift.infinite.red/the-remote-work-starter-kit-office-stuff-edition-5f1d360bfe70?source=rss-6ca0fe37eac1------2)
+- [The Remote Work Starter Kit — Desk Stuff Edition](https://shift.infinite.red/the-remote-work-starter-kit-desk-stuff-edition-6b841b8c745?source=rss-6ca0fe37eac1------2)
+- [Writing a Book — 9 Lessons](https://shift.infinite.red/writing-a-book-9-lessons-1239e5c760d3?source=rss-6ca0fe37eac1------2)
+- [No Data No Problem — TensorFlow.js Transfer Learning](https://towardsdatascience.com/no-data-no-problem-tensorflow-js-transfer-learning-f774312d1d2a?source=rss-6ca0fe37eac1------2)
+- [A Riddikulus Dataset](https://medium.com/google-developer-experts/a-riddikulus-dataset-fb68f9044e33?source=rss-6ca0fe37eac1------2)
+<!-- BLOG-POST-LIST:END -->
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gantman&layout=compact&hide=html" alt="gantman" /></p>
+
+<p>&nbsp;<img align="center" style="max-width: 50%" width="50%" src="https://github-readme-stats.vercel.app/api?username=gantman&show_icons=true" alt="gantman" /></p>
+
+<p align="center">
+<a href="https://twitter.com/https://twitter.com/gantlaborde" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/gantlaborde" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/gant-laborde/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/gant-laborde/" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/1250389" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="1250389" height="30" width="30" /></a>
+<a href="https://medium.com/@gantlaborde" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@gantlaborde" height="30" width="30" /></a>
+</p>
+
+
+
+
+
+
 ### Hi there 👋
 
  🔭 I’m currently working on react native
@@ -5,6 +96,9 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=htkaya07&theme=highcontrast&show_icons=true&count_private=true)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=htkaya07&layout=compact)
+
+
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
 <!--
@@ -17,6 +111,9 @@ Here are some ideas to get you started:
 
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=htkaya07)
+
+
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
