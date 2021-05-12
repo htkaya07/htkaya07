@@ -38,9 +38,8 @@
 
 <table style="table-layout: fixed;">
   <tr>
-      <th width="50%">
-        My Affiliate Groups
-        </th>
+     
+        
               <th>
             Fav Tech
         </th>
