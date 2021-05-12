@@ -57,16 +57,16 @@
 
 
 
-<p>&nbsp;<img align="center" style="max-width: 50%" width="50%" src="https://github-readme-stats.vercel.app/api?username=htkaya07&theme=highcontrast&&show_icons=true" alt="htkaya07" /></p>
 
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=htkaya07&theme=highcontrast&show_icons=true&count_private=true) 
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=htkaya07&theme=highcontrast&show_icons=true) 
 
  
 
 
 
- ![Github stats](https://github-readme-stats.vercel.app/api?username=htkaya07&theme=highcontrast&show_icons=true&count_private=true)
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=htkaya07&theme=highcontrast&show_icons=true)
 
 
 
