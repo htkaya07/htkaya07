@@ -25,7 +25,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=htkaya07" alt="htkaya" /> </p>
 
-- 🔭 &nbsp; I’m currently working on **cool things with AWS and **React Native**. 
+- 🔭 &nbsp; I’m currently working on with AWS and **React Native**. 
 
 
 
